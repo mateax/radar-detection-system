@@ -1,4 +1,4 @@
-# Radar-detection-system
+# Radar detection system
 Radar system controlled by Processing and Arduino development environments
 ## How it works?
 Radar detects objects using HC – SR04 Ultrasonic Sensor in the range of 30 cm and 180 degrees, and plots results on a graphical display.
