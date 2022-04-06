@@ -5,7 +5,7 @@ Radar detects objects using HC – SR04 Ultrasonic Sensor in the range of 30 cm 
 
 Control and detection was achieved using the Arduino, and a graphical radar display of the obtained values of distance and angle from the target object is realized in the development environment Processing
 ## Circuit
-According to the circuit diagram, attach the HC – SR04 Ultrasonic Sensor to a servo motor,and hook them up to an Arduino board.
+According to the circuit diagram, attach the HC–SR04 Ultrasonic Sensor to a servo motor,and hook them up to an Arduino board.
 ## Code
 ### Arduino code
 Sweeps the servo back and forth in the range od 180 degrees.
