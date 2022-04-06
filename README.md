@@ -1,8 +1,9 @@
 # Radar detection system
 Radar system controlled by Processing and Arduino development environments.
-#### Object detected
+#### Object detected:
 ![Object detected](https://github.com/mateax/radar-detection-sytem/blob/main/object-in-scope.png)
-#### Object out of scope
+
+#### Object out of scope:
 ![Object out of scope](https://github.com/mateax/radar-detection-sytem/blob/main/out-of-scope.png)
 
 ## How it works?
